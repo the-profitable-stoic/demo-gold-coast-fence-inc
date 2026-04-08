@@ -1,0 +1,552 @@
+{
+  "business": {
+    "name": "Gold Coast Fence Inc.",
+    "phone": "+15628672027",
+    "category": "fence company",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Premier Fence Experts",
+      "heroSubline": "Durable fences built to withstand the California climate. Protecting your property with quality craftsmanship and lasting materials.",
+      "aboutTitle": "Built on Integrity, Rooted in Long Beach",
+      "aboutText": [
+        "Gold Coast Fence Inc. started with a simple mission: to provide Long Beach and the surrounding areas with reliable, high-quality fencing solutions. We're a family-owned business, deeply invested in the community and committed to exceeding expectations.",
+        "Our approach is straightforward. We listen to your needs, assess your property, and recommend the best fencing options for your style and budget. We believe in clear communication, transparent pricing, and meticulous workmanship.",
+        "We're proud to call Long Beach home and dedicated to giving back. We actively support local initiatives and prioritize sustainable practices, ensuring our work enhances the beauty and security of our neighborhoods for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach's unique climate and architectural styles, ensuring your fence complements your home and withstands the elements."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only premium-grade materials designed to resist fading, warping, and damage from the California sun and occasional coastal storms."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "From classic wood fences to modern metal designs, we create custom solutions that perfectly match your aesthetic preferences and property needs."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Our experienced team delivers on-time, professional installations with minimal disruption to your property and peace of mind."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured fence contractor, providing you with complete protection and confidence in our services."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free quote and discover the perfect fencing solution for your Long Beach home or business."
+    },
+    "services": [
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fences",
+        "shortDescription": "Classic wood fences offering natural beauty and privacy for your Long Beach property.",
+        "description": "Wood fences remain a popular choice for their timeless appeal and versatility. Gold Coast Fence Inc. specializes in crafting durable and beautiful wood fences using high-quality lumber that withstands the harsh California sun. We offer a wide variety of wood types, including redwood, cedar, and pressure-treated pine, each with its unique characteristics and aesthetic. Whether you're looking for a traditional picket fence to complement your Craftsman bungalow in Belmont Shore or a privacy fence to create a secluded backyard oasis in Bixby Knolls, we can customize a wood fence to meet your specific needs.\n\nOur expert team handles every aspect of the wood fence installation process, from precise measurements and sturdy post setting to meticulous board placement and finishing. We understand the importance of proper drainage and ventilation to prevent rot and warping, ensuring your wood fence lasts for years to come. We also offer staining and sealing services to protect your wood fence from the elements and enhance its natural beauty.\n\nWith a wood fence from Gold Coast Fence Inc., you'll enjoy increased privacy, enhanced curb appeal, and a secure boundary for your property. Contact us today for a free consultation and let us help you design the perfect wood fence for your Long Beach home.",
+        "process": [
+          "Step 1: Initial consultation and site assessment",
+          "Step 2: Design selection and material choice",
+          "Step 3: Precise measurements and layout",
+          "Step 4: Professional installation and finishing"
+        ],
+        "benefits": [
+          "Natural beauty and warmth",
+          "Enhanced privacy and security",
+          "Customizable designs",
+          "Cost-effective fencing option"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Long Beach?",
+            "answer": "With proper maintenance and sealing, a wood fence can last 15-20 years in Long Beach's climate. Regular inspections and prompt repairs can extend its lifespan."
+          },
+          {
+            "question": "What type of wood is best for a fence in California?",
+            "answer": "Redwood and cedar are excellent choices due to their natural resistance to rot and insects. Pressure-treated pine is another durable and affordable option."
+          },
+          {
+            "question": "Can I paint a wood fence?",
+            "answer": "Yes, you can paint a wood fence to match your home's exterior. However, staining is often preferred as it allows the natural wood grain to show through."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fences",
+        "shortDescription": "Low-maintenance vinyl fences offering durability and style for modern Long Beach homes.",
+        "description": "Vinyl fences are a popular choice for Long Beach homeowners seeking a durable, low-maintenance fencing solution. Gold Coast Fence Inc. offers a wide selection of vinyl fence styles, colors, and textures to complement any architectural design. Unlike wood fences, vinyl fences are resistant to rot, warping, and insect damage, making them ideal for the coastal climate. They also require minimal upkeep, saving you time and money on maintenance.\n\nOur expert installers ensure precise and secure vinyl fence installations, using high-quality materials and proven techniques. We pay close attention to detail, ensuring proper post spacing, level alignment, and secure panel connections. Whether you're looking for a privacy fence to create a peaceful backyard retreat or a decorative picket fence to enhance your curb appeal, we can customize a vinyl fence to meet your specific needs.\n\nWith a vinyl fence from Gold Coast Fence Inc., you'll enjoy long-lasting beauty, minimal maintenance, and a secure boundary for your property. Contact us today for a free consultation and let us help you choose the perfect vinyl fence for your Long Beach home.",
+        "process": [
+          "Step 1: Site evaluation and design consultation",
+          "Step 2: Material selection and color matching",
+          "Step 3: Professional installation with precise measurements",
+          "Step 4: Final inspection and quality assurance"
+        ],
+        "benefits": [
+          "Low maintenance and easy to clean",
+          "Durable and weather-resistant",
+          "Variety of styles and colors",
+          "Long-lasting investment"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "Vinyl fences can last 30 years or more with minimal maintenance, making them a great long-term investment."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Yes, vinyl fencing is recyclable and requires no painting or staining, reducing its environmental impact."
+          },
+          {
+            "question": "Can vinyl fences withstand strong winds?",
+            "answer": "Yes, our vinyl fences are designed to withstand strong winds and are installed with sturdy posts and secure connections."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fences",
+        "shortDescription": "Affordable and secure chain link fences for residential and commercial properties in Long Beach.",
+        "description": "Chain link fences are a practical and cost-effective solution for securing residential and commercial properties in Long Beach. Gold Coast Fence Inc. offers a variety of chain link fence options, including galvanized steel and vinyl-coated chain link, to meet your specific security and aesthetic needs. Chain link fences are known for their durability, affordability, and ease of installation, making them a popular choice for property owners seeking a reliable security solution.\n\nOur experienced installers ensure precise and secure chain link fence installations, using high-quality materials and proven techniques. We pay close attention to detail, ensuring proper post spacing, tensioning, and gate alignment. Whether you need a chain link fence for your backyard, commercial property, or industrial site, we can customize a solution to meet your specific requirements.\n\nWith a chain link fence from Gold Coast Fence Inc., you'll enjoy enhanced security, affordability, and long-lasting performance. Contact us today for a free consultation and let us help you choose the perfect chain link fence for your Long Beach property.",
+        "process": [
+          "Step 1: Site survey and security assessment",
+          "Step 2: Material selection and height determination",
+          "Step 3: Professional installation with secure post setting",
+          "Step 4: Final inspection and tension adjustment"
+        ],
+        "benefits": [
+          "Affordable security solution",
+          "Durable and long-lasting",
+          "Easy to install and maintain",
+          "Versatile for various applications"
+        ],
+        "faq": [
+          {
+            "question": "How tall should my chain link fence be?",
+            "answer": "The ideal height depends on your security needs and local regulations. We can help you determine the appropriate height for your property."
+          },
+          {
+            "question": "Can I add privacy slats to a chain link fence?",
+            "answer": "Yes, privacy slats can be added to a chain link fence to increase privacy and reduce visibility."
+          },
+          {
+            "question": "What is the difference between galvanized and vinyl-coated chain link?",
+            "answer": "Galvanized chain link is coated with zinc for rust protection, while vinyl-coated chain link is coated with vinyl for added durability and aesthetic appeal."
+          }
+        ]
+      },
+      {
+        "slug": "ornamental-iron-fences",
+        "name": "Ornamental Iron Fences",
+        "shortDescription": "Elegant and durable ornamental iron fences adding sophistication and security to Long Beach properties.",
+        "description": "Ornamental iron fences offer a timeless blend of elegance and security, enhancing the curb appeal and value of your Long Beach property. Gold Coast Fence Inc. specializes in designing and installing custom ornamental iron fences that reflect your unique style and architectural preferences. From classic wrought iron designs to modern steel creations, we offer a wide range of ornamental iron fence options to suit any taste.\n\nOur skilled craftsmen meticulously fabricate and install each ornamental iron fence, ensuring precise welds, smooth finishes, and long-lasting durability. We use high-quality materials and advanced techniques to create fences that withstand the elements and provide lasting beauty. Whether you're looking to enhance the security of your home, create a decorative boundary for your garden, or add a touch of sophistication to your commercial property, we can design an ornamental iron fence that meets your specific needs.\n\nWith an ornamental iron fence from Gold Coast Fence Inc., you'll enjoy enhanced security, timeless elegance, and a lasting investment in your property's value. Contact us today for a free consultation and let us help you create the perfect ornamental iron fence for your Long Beach home or business.",
+        "process": [
+          "Step 1: Design consultation and style selection",
+          "Step 2: Custom fabrication and precise measurements",
+          "Step 3: Professional installation with secure post setting",
+          "Step 4: Finishing and protective coating application"
+        ],
+        "benefits": [
+          "Enhanced security and property value",
+          "Timeless elegance and curb appeal",
+          "Customizable designs and styles",
+          "Durable and long-lasting"
+        ],
+        "faq": [
+          {
+            "question": "Can I customize the design of my ornamental iron fence?",
+            "answer": "Yes, we offer a wide range of customization options, including decorative scrolls, finials, and gate designs."
+          },
+          {
+            "question": "What type of maintenance is required for an ornamental iron fence?",
+            "answer": "Ornamental iron fences require minimal maintenance, such as occasional cleaning and touch-up painting to prevent rust."
+          },
+          {
+            "question": "Can ornamental iron fences be used around swimming pools?",
+            "answer": "Yes, ornamental iron fences are a popular choice for pool enclosures, providing safety and security while maintaining an elegant aesthetic."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Restoration",
+        "shortDescription": "Reliable fence repair services in Long Beach, restoring security and extending the life of your existing fence.",
+        "description": "Is your fence damaged from the elements, an accident, or just wear and tear? Gold Coast Fence Inc. offers comprehensive fence repair and restoration services in Long Beach. We understand that a damaged fence not only compromises your property's security but also detracts from its curb appeal. Our experienced technicians can quickly assess the damage and provide efficient and cost-effective repair solutions.\n\nWe handle all types of fence repairs, including broken posts, damaged panels, leaning sections, and gate malfunctions. Whether you have a wood fence, vinyl fence, chain link fence, or ornamental iron fence, we have the expertise and tools to restore it to its original condition. We use high-quality materials and proven techniques to ensure lasting repairs that withstand the California climate.\n\nDon't let a damaged fence compromise your property's security and appearance. Contact Gold Coast Fence Inc. today for reliable fence repair services in Long Beach. We'll provide a free estimate and get your fence back in top shape in no time.",
+        "process": [
+          "Step 1: Thorough inspection and damage assessment",
+          "Step 2: Detailed repair plan and cost estimate",
+          "Step 3: Efficient and professional repair execution",
+          "Step 4: Final inspection and quality assurance"
+        ],
+        "benefits": [
+          "Restored security and privacy",
+          "Improved curb appeal",
+          "Cost-effective alternative to replacement",
+          "Extended fence lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair varies depending on the extent of the damage and the type of fence. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Can you repair a leaning fence?",
+            "answer": "Yes, we can repair leaning fences by reinforcing or replacing the damaged posts and ensuring proper alignment."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services to address urgent security concerns and prevent further damage."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Expert gate services in Long Beach, ensuring smooth operation and secure access to your property.",
+        "description": "A properly functioning gate is essential for both security and convenience. Gold Coast Fence Inc. provides expert gate installation and repair services in Long Beach, ensuring smooth operation and secure access to your property. We offer a wide range of gate options, including swing gates, slide gates, and automatic gates, to meet your specific needs.\n\nOur experienced technicians handle all aspects of gate installation, from precise measurements and sturdy post setting to smooth gate alignment and secure latch installation. We also provide comprehensive gate repair services, including hinge replacement, latch repair, and gate opener troubleshooting. Whether you need a new gate installed or an existing gate repaired, we have the expertise and tools to get the job done right.\n\nEnsure the security and convenience of your property with professional gate services from Gold Coast Fence Inc. Contact us today for a free consultation and let us help you choose the perfect gate solution for your Long Beach home or business.",
+        "process": [
+          "Step 1: Site assessment and gate selection",
+          "Step 2: Precise measurements and layout",
+          "Step 3: Professional installation or repair",
+          "Step 4: Final inspection and operational testing"
+        ],
+        "benefits": [
+          "Enhanced security and convenience",
+          "Smooth gate operation",
+          "Variety of gate options",
+          "Expert installation and repair"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your property's layout, security needs, and aesthetic preferences. We can help you choose the perfect gate for your specific requirements."
+          },
+          {
+            "question": "Can you install an automatic gate opener?",
+            "answer": "Yes, we can install automatic gate openers for added convenience and security."
+          },
+          {
+            "question": "How often should I maintain my gate?",
+            "answer": "Regular gate maintenance, such as lubricating hinges and checking latches, can help prevent problems and extend the life of your gate."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is proud to provide comprehensive fencing solutions to the diverse neighborhoods of Los Angeles. From the iconic Spanish Colonial Revival architecture of the 1920s to modern developments, we understand the unique aesthetic and security needs of LA residents. Our experienced team is equipped to handle projects of any size, ensuring that your fence complements the character of your home and provides lasting value. We offer a wide range of materials, including wood, vinyl, chain-link, and ornamental iron, to suit any style and budget.\n\nLos Angeles' warm, dry climate demands durable fencing that can withstand the year-round sunshine. Gold Coast Fence Inc. uses high-quality materials and proven installation techniques to ensure your fence remains strong and beautiful for years to come. Whether you're looking for a classic wood fence to enhance your privacy, a sturdy chain-link fence for security, or an elegant ornamental iron fence to add curb appeal, we have the perfect solution for your Los Angeles property. We are committed to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Los Angeles is known for its diverse architecture, from the historic 1920s Spanish Colonial Revival style to modern designs, requiring fencing solutions that blend seamlessly with existing aesthetics.",
+        "nearbyAreas": [
+          "Santa Monica",
+          "Beverly Hills",
+          "Culver City"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is dedicated to serving the Pasadena community with top-quality fencing services. Known for its beautiful 1910s-30s Craftsman bungalows, Pasadena requires fencing solutions that enhance the charm and character of these historic homes. We offer a variety of styles and materials that complement the Craftsman aesthetic, including wood fences with intricate detailing and classic wrought iron designs. Our experienced team will work with you to create a fence that not only provides security and privacy but also adds to the overall beauty of your property.\n\nPasadena's warm, dry climate presents unique challenges for fencing. Gold Coast Fence Inc. uses durable, weather-resistant materials and expert installation techniques to ensure your fence stands the test of time. We understand the importance of preserving the historical integrity of Pasadena's neighborhoods, and we are committed to providing fencing solutions that meet the highest standards of quality and craftsmanship.",
+        "localContext": "Pasadena's architectural landscape is dominated by 1910s-30s Craftsman bungalows, influencing the need for fencing that complements this specific style.",
+        "nearbyAreas": [
+          "San Marino",
+          "Arcadia",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is pleased to offer comprehensive fencing services to the residents of Irvine. As a master-planned community with homes primarily built from the 1970s to the present, Irvine requires fencing solutions that blend seamlessly with modern architectural styles. We offer a wide range of options, including vinyl, wood, and composite fences, that provide both security and aesthetic appeal. Our experienced team will work with you to choose the perfect fence for your property, ensuring it complements the design of your home and meets your specific needs.\n\nIrvine's warm, dry climate demands durable fencing that can withstand the elements. Gold Coast Fence Inc. uses high-quality materials and expert installation techniques to ensure your fence remains strong and beautiful for years to come. Whether you're looking for a privacy fence to create a backyard oasis or a decorative fence to enhance your curb appeal, we have the perfect solution for your Irvine home. We pride ourselves on providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Irvine, a master-planned community, features homes from the 1970s to the present, influencing the need for modern and cohesive fencing designs.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is proud to provide top-notch fencing services to the growing community of Santa Clarita. Characterized by newer master-planned communities built from the 1990s to the 2020s, Santa Clarita requires fencing solutions that complement contemporary home designs. We offer a wide variety of fencing options, including vinyl, wood, and composite fences, that provide both security and aesthetic appeal. Our skilled team is dedicated to helping you find the perfect fence to match your home's style and meet your specific needs.\n\nSanta Clarita's warm, dry climate necessitates fences that are both durable and weather-resistant. Gold Coast Fence Inc. uses only the highest quality materials and employs expert installation techniques to ensure your fence will withstand the elements and last for years. Whether you're seeking a privacy fence for your backyard, a decorative fence to enhance your curb appeal, or a security fence for added protection, we have the ideal solution for your Santa Clarita property. We are committed to delivering exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Santa Clarita's development consists of newer master-planned communities from the 1990s to the 2020s, requiring fencing that matches modern home designs.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is pleased to offer professional fencing services to the residents of Torrance. Known for its 1950s-60s post-war homes, Torrance requires fencing solutions that complement these classic architectural styles. We offer a range of fencing options, including wood, chain-link, and vinyl, that provide both security and aesthetic appeal. Our experienced team will work with you to choose the perfect fence for your property, ensuring it enhances the charm of your home and meets your specific needs.\n\nTorrance's warm, dry climate demands durable fencing that can withstand the elements. Gold Coast Fence Inc. uses high-quality materials and expert installation techniques to ensure your fence remains strong and beautiful for years to come. Whether you're looking for a traditional wood fence to enhance your privacy or a sturdy chain-link fence for security, we have the perfect solution for your Torrance property. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Torrance features primarily 1950s-60s post-war homes, influencing the need for fencing that complements these classic styles.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "As a local Long Beach company, Gold Coast Fence Inc. is proud to serve our community with top-quality fencing solutions. Long Beach boasts a diverse architectural landscape, from historic Craftsman bungalows to modern developments, requiring fencing that complements a wide range of styles. We offer various materials, including wood, vinyl, chain-link, and ornamental iron, to suit any aesthetic and budget. Our experienced team is equipped to handle projects of all sizes, ensuring your fence enhances your property's value and curb appeal.\n\nLong Beach's coastal climate demands durable fencing that can withstand the elements. Gold Coast Fence Inc. uses high-quality, weather-resistant materials and proven installation techniques to ensure your fence remains strong and beautiful for years to come. Whether you're looking for a classic wood fence for privacy, a secure chain-link fence for your business, or an elegant ornamental iron fence to add a touch of sophistication, we have the perfect solution for your Long Beach property.",
+        "localContext": "Long Beach features diverse architecture, from historic Craftsman bungalows to modern developments, requiring versatile fencing solutions.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is dedicated to providing Anaheim residents with high-quality fencing services. Anaheim features a mix of architectural styles, from mid-century modern homes to newer developments, requiring versatile fencing solutions. We offer a wide range of materials, including wood, vinyl, and chain-link, to suit any style and budget. Our experienced team is equipped to handle projects of any size, ensuring your fence complements your home and meets your security needs.\n\nThe warm, dry climate of Anaheim demands durable fencing that can withstand the elements. Gold Coast Fence Inc. uses high-quality, weather-resistant materials and proven installation techniques to ensure your fence remains strong and beautiful for years to come. Whether you're looking for a privacy fence to create a backyard oasis or a security fence to protect your property, we have the perfect solution for your Anaheim home or business.",
+        "localContext": "Anaheim features a mix of architectural styles, from mid-century modern homes to newer developments, requiring adaptable fencing solutions.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Gold Coast Fence Inc. is pleased to offer comprehensive fencing services to the residents and businesses of Huntington Beach. Known for its beach culture and diverse housing styles, Huntington Beach requires fencing solutions that are both functional and aesthetically pleasing. We offer a wide range of options, including wood, vinyl, and ornamental iron fences, that enhance the beauty and security of your property. Our experienced team will work with you to choose the perfect fence, ensuring it complements your home or business and meets your specific needs.\n\nHuntington Beach's coastal climate demands durable fencing that can withstand the salt air and sunshine. Gold Coast Fence Inc. uses high-quality, weather-resistant materials and expert installation techniques to ensure your fence remains strong and beautiful for years to come. Whether you're looking for a privacy fence to create a relaxing outdoor space or a security fence to protect your property, we have the perfect solution for your Huntington Beach needs.",
+        "localContext": "Huntington Beach's coastal location and diverse housing styles demand fencing that is both functional and aesthetically pleasing, able to withstand the elements.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Gold Coast Fence did an amazing job installing our new redwood fence! The crew was professional, efficient, and paid attention to every detail. Our backyard feels so much more private now. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Repair",
+        "text": "Our chain link fence was damaged during a storm, and Gold Coast Fence came out quickly to repair it. The price was fair, and the repairs were done well. Very happy with their service.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We chose a vinyl fence for its low maintenance, and Gold Coast Fence delivered! The installation was seamless, and the fence looks fantastic. The team was friendly and professional throughout the entire process.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Ornamental Iron Gate Repair",
+        "text": "Our ornamental iron gate was sticking and difficult to open. Gold Coast Fence quickly diagnosed the problem and repaired it. Now, it swings smoothly and looks great. Excellent service!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Fence Replacement",
+        "text": "Gold Coast Fence replaced our old, dilapidated fence with a beautiful new cedar fence. The quality of workmanship is outstanding, and the crew was respectful of our property. We're very pleased with the results.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Custom Gate Installation",
+        "text": "I needed a custom gate for my unusual driveway. Gold Coast Fence designed and installed a perfect solution. Their attention to detail and commitment to customer satisfaction is impressive. I highly recommend them!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Gold Coast Fence Inc. | Long Beach CA",
+        "description": "Long Beach's trusted fence company. Wood, vinyl, chain link, iron - installation & repair. Free quotes! Call +15628672027"
+      },
+      "about": {
+        "title": "About Gold Coast Fence Inc. | Long Beach",
+        "description": "Learn about Gold Coast Fence Inc.'s commitment to quality fencing in Long Beach. Family-owned, local expertise, durable materials."
+      },
+      "services": {
+        "title": "Fence Services | Long Beach CA | Gold Coast Fence",
+        "description": "Wood, vinyl, chain link, iron fence services in Long Beach. Installation, repair, restoration. Free estimates! Call us today."
+      },
+      "contact": {
+        "title": "Contact Gold Coast Fence Inc. | Long Beach",
+        "description": "Contact Gold Coast Fence Inc. in Long Beach for fence quotes, questions, and service requests. Call +15628672027 or email us!"
+      },
+      "reviews": {
+        "title": "Gold Coast Fence Reviews | Long Beach CA",
+        "description": "Read reviews for Gold Coast Fence Inc. in Long Beach. See what our satisfied customers say about our fence installation and repair services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Gold Coast Fence Inc.",
+        "description": "Gold Coast Fence Inc. serves Long Beach, Los Angeles, Pasadena, Irvine, Santa Clarita, Torrance. Quality fence services in Southern CA."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "ornamental-iron-fences": "/images/service-ornamental-iron-fences.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ornamental-iron-fences": {
+        "src": "/images/service-ornamental-iron-fences.webp",
+        "srcset": "/images/service-ornamental-iron-fences-400w.webp 400w, /images/service-ornamental-iron-fences-800w.webp 800w, /images/service-ornamental-iron-fences-1200w.webp 1200w, /images/service-ornamental-iron-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
